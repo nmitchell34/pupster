@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/pupster/static/js/main.e9426e38.chunk.js",
+    "main.js.map": "/pupster/static/js/main.e9426e38.chunk.js.map",
+    "runtime-main.js": "/pupster/static/js/runtime-main.2d8bf639.js",
+    "runtime-main.js.map": "/pupster/static/js/runtime-main.2d8bf639.js.map",
+    "static/js/2.9f4cc5c7.chunk.js": "/pupster/static/js/2.9f4cc5c7.chunk.js",
+    "static/js/2.9f4cc5c7.chunk.js.map": "/pupster/static/js/2.9f4cc5c7.chunk.js.map",
+    "index.html": "/pupster/index.html",
+    "precache-manifest.d39d450e22e22f006ffee15ca07c49ae.js": "/pupster/precache-manifest.d39d450e22e22f006ffee15ca07c49ae.js",
+    "service-worker.js": "/pupster/service-worker.js",
+    "static/js/2.9f4cc5c7.chunk.js.LICENSE.txt": "/pupster/static/js/2.9f4cc5c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d8bf639.js",
+    "static/js/2.9f4cc5c7.chunk.js",
+    "static/js/main.e9426e38.chunk.js"
+  ]
+}
